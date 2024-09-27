@@ -24,6 +24,10 @@ Please note that using this virus may result in data loss or system damage. Use 
 
 This program is intended for educational and research purposes only. The creator of this virus does not condone any illegal or unethical activities. By using this software, you acknowledge and accept that the creator is not liable for any damages, loss of data, or any consequences that may arise from its use. Use responsibly and at your own risk.
 
+## Review
+
+Check out the [MTHR7H video review here](https://ia904509.us.archive.org/23/items/mthr-7-h/MTHR7H.mp4) to see the virus in action!
+
 ## How to Run
 
 To run the "MTHR7H" virus, just follow these steps:
