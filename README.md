@@ -26,9 +26,10 @@ This program is intended for educational and research purposes only. The creator
 
 ## Review
 
-Watch the video review of MTHR7H directly below:
-
-[![Watch the video](https://img.youtube.com/vi/MTHR7H_VIDEO_ID/0.jpg)](https://ia904509.us.archive.org/23/items/mthr-7-h/MTHR7H.mp4)
+<video width="640" height="480" controls>
+  <source src="https://ia904509.us.archive.org/23/items/mthr-7-h/MTHR7H.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## How to Run
 
