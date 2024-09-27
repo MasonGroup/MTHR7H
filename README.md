@@ -26,7 +26,9 @@ This program is intended for educational and research purposes only. The creator
 
 ## Review
 
-Check out the [MTHR7H video review here](https://ia904509.us.archive.org/23/items/mthr-7-h/MTHR7H.mp4) to see the virus in action!
+Watch the video review of MTHR7H directly below:
+
+[![Watch the video](https://img.youtube.com/vi/MTHR7H_VIDEO_ID/0.jpg)](https://ia904509.us.archive.org/23/items/mthr-7-h/MTHR7H.mp4)
 
 ## How to Run
 
