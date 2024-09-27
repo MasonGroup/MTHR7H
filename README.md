@@ -1,34 +1,36 @@
-# مذرحه - فيروسك الخارق!
+# MTHR7H - Your Ultimate Virus!
 
-## مقدمة
+## Introduction
 
-مرحبًا بكم في مشروع "مذرحه"! هذا فيروس فريد تم تصميمه باستخدام لغة C# ليعمل على المذرحه في جهازك بشكل غير متوقع. إذا كنت تبحث عن تجربة مثيرة ومليئة بالتحديات، فقد وجدت ما تبحث عنه!
+Welcome to the "MTHR7H" project! This unique virus has been designed using C# to create chaos on your device unexpectedly. If you're looking for an exciting and challenging experience, you've found it!
 
-## ما هو "مذرحه"؟
+## What is "MTHR7H"?
 
-"مذرحه" هو فيروس يسعى لخلق الفوضى في نظامك. يعمل على إحداث تغييرات غير مرغوبة في ملفاتك، مما يؤدي إلى تدهور الأداء وتجربة استخدام غير مريحة. إذا كنت تريد أن تعيش تجربة مرعبة، فهذا الفيروس هو الخيار المثالي لك.
+"MTHR7H" is a virus that aims to wreak havoc on your system. It alters your files in unwanted ways, leading to performance degradation and an uncomfortable user experience. If you want to live a terrifying experience, this virus is the perfect choice for you.
 
-## مميزات "مذرحه"
+## Features of "MTHR7H"
 
-- **تأثير مفاجئ:** سيقوم الفيروس بإحداث تغييرات غير متوقعة في جهازك، مما سيجعلك تشعر وكأنك تعيش في فيلم رعب.
-- **سهل الاستخدام:** تم تصميمه بطريقة تجعل من السهل على أي شخص تشغيله دون الحاجة إلى مهارات تقنية متقدمة.
-- **تجربة فريدة:** استعد لرحلة مثيرة في عالم المذرحه مع فيروس "مذرحه".
+- **Surprising Impact:** The virus will cause unexpected changes to your device, making you feel like you're living in a horror movie.
+- **Easy to Use:** It is designed in a way that makes it easy for anyone to run without needing advanced technical skills.
+- **Unique Experience:** Get ready for an exciting journey into the world of chaos with the "MTHR7H" virus.
 
-## التحذير
+## Warning
 
-يرجى ملاحظة أن استخدام هذا الفيروس قد يؤدي إلى فقدان البيانات أو تلف النظام. استخدامه يكون على مسؤوليتك الخاصة. نحن غير مسؤولين عن أي أضرار قد تحدث لجهازك.
+Please note that using this virus may result in data loss or system damage. Use it at your own risk. We are not responsible for any harm that may occur to your device.
 
-## كيفية التشغيل
+## How to Run
 
-لتشغيل فيروس "مذرحه"، فقط اتبع الخطوات التالية:
+To run the "MTHR7H" virus, just follow these steps:
 
-1. قم بتنزيل الملف التنفيذي.
-2. افتح موجه الأوامر (CMD).
-3. انتقل إلى مجلد الملف التنفيذي.
-4. اكتب اسم الملف واضغط Enter.
+1. Download the executable file.
+2. Open Command Prompt (CMD).
+3. Navigate to the folder containing the executable file.
+4. Type the file name and hit Enter.
 
-## تواصل معنا
+## Contact Us
 
-إذا كان لديك أي استفسارات أو ملاحظات، لا تتردد في التواصل معنا عبر وسائل التواصل الاجتماعي.
+If you have any questions or feedback, feel free to reach out to us through social media.
 
-**ملاحظة:** هذا البرنامج هو لأغراض تعليمية فقط ويجب استخدامه بحذر.
+**Note:** This program is for educational purposes only and should be used with caution.
+
+**سيتم المذرحه في جهازك!**
