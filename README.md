@@ -28,7 +28,7 @@ This program is intended for educational and research purposes only. The creator
 
 Watch the MTHR7H video review by clicking the link below:
 
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://ia904509.us.archive.org/23/items/mthr-7-h/MTHR7H.mp4)
+https://ia904509.us.archive.org/23/items/mthr-7-h/MTHR7H.mp4
 
 ## How to Run
 
